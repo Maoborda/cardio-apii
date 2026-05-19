@@ -1,0 +1,38 @@
+{
+  "version": "2.0",
+  "frecuencia_muestreo": 360.0,
+  "longitud_ventana": 540,
+  "n_clases": 6,
+  "nombres_clases": [
+    "Normal",
+    "Fib. Auricular",
+    "Taq. Ventricular",
+    "Bradicardia",
+    "Bloqueo",
+    "Isquemia"
+  ],
+  "umbral_confianza": 0.7,
+  "dataset": "MIT-BIH Arrhythmia Database",
+  "registros_usados": [
+    "100",
+    "101",
+    "103",
+    "105",
+    "106",
+    "200",
+    "201",
+    "202",
+    "203",
+    "205",
+    "207",
+    "208",
+    "209",
+    "210",
+    "212",
+    "213",
+    "214",
+    "215",
+    "217",
+    "219"
+  ]
+}
